@@ -59,8 +59,7 @@ Lecturer in Digital Humanities, University of Sheffield
 **Boris Capitanu**  
 Senior Research Developer, HTRC, University of Illinois
 
-**Ryan Dubnicek** 
-Ryan Dubnicek
+**Ryan Dubnicek**  
 Digital Humanities Specialist, HTRC, University of Illinois
 
 **Jade Harrison**. 
