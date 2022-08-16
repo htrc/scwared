@@ -35,7 +35,7 @@ This project created large datasets to research the history of Latin American fi
 
 This project draws on HathiTrust’s collection of public health documents on Black health to explore how early twentieth Black public health officials communicated and addressed health disparities that impacted African American communities. The major goal of the project is to create a series of worksets and visualizations that scholars and students of African American health and medicine along with public health experts and physicians can use to deepen historical narratives about Black health that might offer insight into the development of contemporary health communications targeted toward African American communities. The project also establishes some of the research for Technologies of Recovery: Black DH Theory and Praxis, a book in- progress. Finally, the work seeks to fill a gap in the history of African American public health.
 
-## People
+## SCWAReD Project People
 **John A. Walsh**  
 SCWAReD Principal Investigator  
 Director, HathiTrust Research Center  
@@ -51,7 +51,7 @@ SCWAReD Co-Principal Investigator
 Founding Director, Project on the History of Black Writing   
 Distinguished Professor of English, University of Kansas  
 
-**Isabella Magni**
+**Isabella Magni**. 
 SCWAReD Post-Doctoral Fellow, HTRC, Indiana University, 2021-2022  
 SCWAReD Consultant, 2022-present  
 Lecturer in Digital Humanities, University of Sheffield
@@ -63,7 +63,7 @@ Senior Research Developer, HTRC, University of Illinois
 Ryan Dubnicek
 Digital Humanities Specialist, HTRC, University of Illinois
 
-**Jade Harrison**
+**Jade Harrison**. 
 Project Manager, Black Book Interactive Project, University of Kansas
 
 **Glen Layne-Worthey**  
@@ -72,7 +72,7 @@ Associate Director for Research Support Services, HTRC, University of Illinois
 **Janet Swatscheno**  
 Associate Director for Outreach and Education, HTRC, University of Michigan
 
-**Brendan Williams-Childs**
+**Brendan Williams-Childs**  
 Collections Assistant, Project on the History of Black Writing, University of Kansas
  
 ## Acknowlegements
