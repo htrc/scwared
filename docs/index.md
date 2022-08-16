@@ -37,6 +37,8 @@ This project created large datasets to research the history of Latin American fi
 
 This project draws on HathiTrust’s collection of public health documents on Black health to explore how early twentieth Black public health officials communicated and addressed health disparities that impacted African American communities. The major goal of the project is to create a series of worksets and visualizations that scholars and students of African American health and medicine along with public health experts and physicians can use to deepen historical narratives about Black health that might offer insight into the development of contemporary health communications targeted toward African American communities. The project also establishes some of the research for Technologies of Recovery: Black DH Theory and Praxis, a book in- progress. Finally, the work seeks to fill a gap in the history of African American public health.
 
+
+
 ## SCWAReD Project People
 **John A. Walsh**  
 SCWAReD Principal Investigator  
@@ -53,7 +55,7 @@ SCWAReD Co-Principal Investigator
 Founding Director, Project on the History of Black Writing   
 Distinguished Professor of English, University of Kansas  
 
-**Isabella Magni**. 
+**Isabella Magni**  
 SCWAReD Post-Doctoral Fellow, HTRC, Indiana University, 2021-2022  
 SCWAReD Consultant, 2022-present  
 Lecturer in Digital Humanities, University of Sheffield
@@ -64,7 +66,7 @@ Senior Research Developer, HTRC, University of Illinois
 **Ryan Dubnicek**  
 Digital Humanities Specialist, HTRC, University of Illinois
 
-**Jade Harrison**. 
+**Jade Harrison**  
 Project Manager, Black Book Interactive Project, University of Kansas
 
 **Glen Layne-Worthey**  
@@ -75,7 +77,9 @@ Associate Director for Outreach and Education, HTRC, University of Michigan
 
 **Brendan Williams-Childs**  
 Collections Assistant, Project on the History of Black Writing, University of Kansas
- 
+
+
+
 ## Acknowlegements
 <img style="float:right; padding-left:.5em; max-width: 200px; border-left: 1px solid black; margin-left:.5em;" src="images/mellon/Mellon_Logomark_Lockup_Black.jpg"/>These curated worksets were developed as part of Scholar-Curated Worksets for Analyis, Re-use, and Dissemination initiative, generously supported by the [Mellon Foundation](http://mellon.org). 
 
