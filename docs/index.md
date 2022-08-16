@@ -39,7 +39,7 @@ This project draws on HathiTrust’s collection of public health documents on Bl
 
 
 
-## SCWAReD Project People
+##SCWAReD Staff
 **John A. Walsh**  
 SCWAReD Principal Investigator  
 Director, HathiTrust Research Center  
@@ -71,6 +71,9 @@ Project Manager, Black Book Interactive Project, University of Kansas
 
 **Glen Layne-Worthey**  
 Associate Director for Research Support Services, HTRC, University of Illinois
+
+**Ashley Simmons**  
+Archive Coordinator, History of Black Writing, University of Kansas
 
 **Janet Swatscheno**  
 Associate Director for Outreach and Education, HTRC, University of Michigan
