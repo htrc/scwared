@@ -84,6 +84,6 @@ Collections Assistant, Project on the History of Black Writing, University of Ka
 
 
 ## Acknowlegements
-<img style="float:right; padding-left:.5em; max-width: 200px; border-left: 1px solid black; margin-left:.5em;" src="images/mellon/Mellon_Logomark_Lockup_Black.jpg"/>These curated worksets were developed as part of Scholar-Curated Worksets for Analysis, Re-use, and Dissemination initiative, generously supported by the [Mellon Foundation](http://mellon.org). 
+<img style="float:right; padding-left:.5em; max-width: 200px; border-left: 1px solid black; margin-left:.5em;" src="images/mellon/Mellon_Logomark_Lockup_Black.jpg"/>These curated worksets were developed as part of [Scholar-Curated Worksets for Analysis, Re-use, and Dissemination](https://htrc.github.io/scwared/) (SCWAReD, pronounced _squared_) initiative, generously supported by the [Mellon Foundation](http://mellon.org). 
 
 The HathiTrust Research Center (HTRC) is the research center of the HathiTrust Digital Library. HTRC receives generous support from the [HathiTrust Digital Library](https://hathitrust.org), [Indiana University](https://www.indiana.edu), and the [University of Illinois](https://www.illinois.org).
