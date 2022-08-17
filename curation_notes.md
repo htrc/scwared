@@ -1,7 +1,7 @@
 # SCWAReD Workset Curation and Hosting
 
 ## Random sites to explore
-- <kaggle.com> (hosted datasets and jupyter notebooks)
+- <http://kaggle.com> (hosted datasets and jupyter notebooks)
 - Microsoft [Azure Open Datasets](https://azure.microsoft.com/en-us/services/open-datasets/?cdn=disable#overview). Good for examples of how datasets are documented.
 - American Chemical Societry: <https://www.cas.org/covid-19-antiviral-compounds-dataset>, example stand-alone data set.
 - CORGIS: <https://think.cs.vt.edu/corgis/>, looks like a small-scale departmental teaching site.
