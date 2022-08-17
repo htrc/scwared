@@ -13,7 +13,7 @@ Extended workset format: id, author, title, date?
 
 ```
 + workset title
-    + docs (configured for github.io?)
+    + docs
         + index.html
         + introduction.md
         + project_report.md
