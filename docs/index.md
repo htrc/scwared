@@ -39,7 +39,7 @@ This project draws on HathiTrust’s collection of public health documents on Bl
 
 
 
-##SCWAReD Staff
+## SCWAReD Staff
 **John A. Walsh**  
 SCWAReD Principal Investigator  
 Director, HathiTrust Research Center  
