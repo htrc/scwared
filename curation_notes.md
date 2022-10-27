@@ -18,17 +18,20 @@ Extended workset format: id, author, title, date?
         + introduction.md
         + project_report.md
         + images
-    + workset.json    
+    + worksets
+    	+ workset.csv
+	+ workset.json
+	+ README-worksets.md
     + datasets
         + dataset1
             + dataset1.csv
-            + README.md
+            + README-dataset1.md
         + dataset2
             + dataset2.csv
-            + README.md
+            + README-dataset2.md
         + dataset3
             + dataset3.json
-            + README.md
+            + README-dataset3.md
 ```
 See <https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site> for configuring a repository directory to serve pages at github.io.
 			
