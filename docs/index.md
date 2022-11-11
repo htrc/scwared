@@ -14,13 +14,13 @@ HTRC partnered with SCWAReD co-PI Dr. Maryemma Graham and her team at the Univer
 
 
 ## Projects selected for SCWAReD-funded Advanced Collaborative Support:
-### [_Mining the Native American Authored Works in HathiTrust for Insights_](https://htrc.github.io/scwared_naw/)  
+### [_Mining the Native American Authored Works in HathiTrust for Insights_](https://htrc.github.io/scwared-naw/)  
 **Kun Lu, Raina Heaton, and Raymond Orr (University of Oklahoma)**
 
 
 This project compiled a collection of Native American authored works in HathiTrust and applied various text mining methods to the collection to reveal the coverage, subjects, perspectives, and writing styles of Native authors. A list of Native authors and their works was compiled from an existing database created by a member of the project team and from other online resources. This list was aligned with the HathiTrust digital library to create a workset of Native American authored works in HathiTrust for further analysis. Then, a variety of text mining methods will be used to analyze the subjects, topics, language use, and writing styles of Native American authors. Comparative analysis will be carried out to understand the characteristics of this textual community. The project seeks to develop a database of Native American authors and the bibliographic information of their works, create a reusable workset of Native American authored works in HathiTrust, identify potential gaps in the HathiTrust corpus on this textual community, and provide insights into the characteristics of the communities by text mining their works.
 
-[View the project on GitHub.](https://htrc.github.io/scwared_nawst/)
+[View the project on GitHub.](https://htrc.github.io/scwared-naw/)
 
 ### _The Black Fantastic: Curated Vocabularies, Artifact Analysis and Identification_
 **Clarissa West-White (Bethune Cookman University) and Seretha Williams (Augusta University)**
