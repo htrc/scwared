@@ -57,7 +57,7 @@ Distinguished Professor of English, University of Kansas
 
 **Isabella Magni**  
 SCWAReD Post-Doctoral Fellow, HTRC, Indiana University, 2021-2022  
-SCWAReD Consultant, 2022-present  
+SCWAReD Co-Investigator, 2022-present  
 Lecturer in Digital Humanities, University of Sheffield
 
 **Boris Capitanu**  
