@@ -7,7 +7,7 @@ The Scholar-Curated Worksets for Analysis, Reuse & Dissemination (SCWAReD) proje
 The special mission of SCWAReD is to highlight and center the work of historically under-resourced and marginalized textual communities. For this purpose, a flagship project and four sub-projects were selected competitively; each of them explores new methods for creating, analyzing, and reusing curated digital library collections and the research data derived from them.
 
 
-## [_Black Books Interactive Project in HathiTrust_](htrc.github.io/scwared-history-of-black-writing/)
+## [_Black Books Interactive Project in HathiTrust_](https://htrc.github.io/scwared-history-of-black-writing/)
    
 HTRC partnered with SCWAReD co-PI Dr. Maryemma Graham and her team at the University of Kansas to develop a flagship research model based on the Project on the History of Black Writing (HBW). HBW was founded in 1983 at the University of Mississippi by Dr. Graham, and has been hosted since 1998 at the University of Kansas. Its principal activities include the creation of the largest known bibliographic database of African-American literary texts in existence; a robust program of summer institutes for professional development and student engagement; community building; and research publishing. HBW’s more recent project to create and curate digital full-text versions of works documented in the bibliography are subsumed under the Black Book Interactive Project (BBIP). The motivating question for BBIP is this: How well is the largest known bibliography of African-American authored texts reflected and represented in the largest known academic digital library? With a combination of advanced metadata matching and methods in textual analysis, this SCWAReD flagship project seeks not only to answer this question, but also to remediate some of the gaps that answer reveals, by seeking sources for as many missing texts as possible; developing new ways of incorporating as many of these into the HathiTrust Digital Library as possible; devising new ways to derive data from those texts that cannot be ingested into HathiTrust; and creating SCWARed worksets and research models from all the diverse sources that we’re able to gather.
 
@@ -22,7 +22,7 @@ This project compiled a collection of Native American authored works in HathiTru
 
 [View the project on GitHub.](https://github.com/htrc/scwared-native-american-authored-works)
 
-### [_The Black Fantastic: Curated Vocabularies, Artifact Analysis and Identification_](htrc.github.io/scwared-black-fantastic/)
+### [_The Black Fantastic: Curated Vocabularies, Artifact Analysis and Identification_](https://htrc.github.io/scwared-black-fantastic/)
 **Clarissa West-White (Bethune Cookman University) and Seretha Williams (Augusta University)**
 
 This project focuses on identifying Black Fantastic texts in the HathiTrust Digital Library. The project proposes that characteristics of the Black Fantastic—the cultural production of African Diasporic artists and creators who engage with the intersections of race and technology in their work—exist in historical and current cultural artifacts, including those created by and about future-forward personalities, such as Dr. Mary McLeod Bethune. It builds on previous and ongoing work to create a bibliography of the Black Fantastic that is featured in Third Stone Journal. Works in HathiTrust were analyzed along with Black Fantastic artifacts from other collections, such as the Dr. Mary McLeod Bethune collection in the Bethune-Cookman University archives. By working across collections, the project seeks to test methods for locating Black Fantastic texts and lives.
@@ -36,7 +36,7 @@ This project created large datasets to research the history of Latin American fi
 
 [View the project on GitHub.](https://github.com/htrc/scwared-spanish-american-fiction)
 
-### [_The National Negro Health Digital Project: Recovering and Restoring a Black Public Health Corpus_](htrc.github.io/scwared-national-negro-health/)
+### [_The National Negro Health Digital Project: Recovering and Restoring a Black Public Health Corpus_](https://htrc.github.io/scwared-national-negro-health/)
 **Kim Gallon (Brown University)**
 
 This project draws on HathiTrust’s collection of public health documents on Black health to explore how early twentieth Black public health officials communicated and addressed health disparities that impacted African American communities. The major goal of the project is to create a series of worksets and visualizations that scholars and students of African American health and medicine along with public health experts and physicians can use to deepen historical narratives about Black health that might offer insight into the development of contemporary health communications targeted toward African American communities. The project also establishes some of the research for Technologies of Recovery: Black DH Theory and Praxis, a book in- progress. Finally, the work seeks to fill a gap in the history of African American public health.
