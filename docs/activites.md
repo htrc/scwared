@@ -6,7 +6,7 @@ XX-XX August
 ### SCWAReD Workshop 2022
 
 ## Presentations
-- Parulian, N. N., Dubnicek, R., Evans, D. J., Hu, Y., Layne-Worthey, G., Downie, J. S., Heaton, R., Lu, K., Orr, R. I., Magni, I. & Walsh, J. A. (2023). “Tuning out the Noise: Benchmarking Entity Extraction for Digitized Native American Literature” Paper presented at 2023 ASIS&T Annual Meeting, London, UK, 27-31 October, 2023. 
+- Parulian, N. N., Dubnicek, R., Evans, D. J., Hu, Y., Layne-Worthey, G., Downie, J. S., Heaton, R., Lu, K., Orr, R. I., Magni, I. & Walsh, J. A. (2023). “Tuning out the Noise: Benchmarking Entity Extraction for Digitized Native American Literature” Paper presented at 86th Annual Meeting of the Association for Information Science & Technology, London, UK, 27-31 October, 2023. 
 - Walsh, J. A. (2023). The HathiTrust Research Center: Overview, SCWAReD, & TORCHLITE. University of Maastricht. Invited talk presented at the University of Maastrich, 20 September 2023.
 - Parulian, N. N., Dubnicek, R., Layne-Worthey, G., Downie, J. S., Evans, D. J. & Walsh J. A. (2022). “Uncovering Black Fantastic: Piloting A Word Feature Analysis and Machine Learning Approach for Genre Classification.” Paper presented at the 85th Annual Meeting of the Association for Information Science & Technology, Pittsburgh, PA, 29 October - 1 November 2022.
 - Dubnicek, R., Harrison, J., Magni, I. Walsh, J. A., Graham, M., Downie, J. S., & Layne-Worthey, G. (2022). “SCWAReD: Scholar-Curated Worksets from the HathiTrust Research Center.” Paper presented at the Digital Humanities Congress, University of Sheffield, Sheffield, United Kingdom, 8-10 September 2022.
