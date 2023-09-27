@@ -23,7 +23,7 @@ Title: _Processing Power: Baldwin, Morrison, data, information_
 - Magni, I., Worthey, G. C., Graham, M., Walsh, J. A., Downie, S. J. & Dubnicek, R. (2022). “Centering the Marginalized: Scholar-Curated Worksets from the HathiTrust Digital Library.” Poster presented at the Digital Humanities conference, Tokyo, Japan, 25-29 July 2022.
 - Kun, L., Heaton, R., Orr, R. I., Vetter, A., Dubnicek, R., Magni, I. “Mining the Native American Authored Works in HathiTrust for Insights,” Presentation at Digital Humanities 2022 Conference, Virtual, July 25-29, 2022, Tokyo, Japan.
 - Dubnicek, R., Walsh, J. A., Graham, M., Downie, J. S., Magni, I., & Layne-Worthey, G. (2022). “Scholar-Curated Worksets for Analysis, Reuse & Dissemination (SCWAReD) from the HathiTrust Research Center.” Poster presented at Digital Humanities Benelux, University of Luxembourg, Belval Campus, Esch-sur-Alzette, Luxembourg. 1-3 June 2022.
-- Dickson-Koehl E., Downie, J. S., Dubnicek, R., Graham, M., Harrison J., Walsh, J. A. & Layne-Worthey, G. (2022). “Recovering Spectral Presences in the 'Universal' Digital Library.” Paper presented at 6th annual Global Digital Humanities Symposium, Michigan State University, Virtual. 12-15 April 2021.
+- Dickson-Koehl E., Downie, J. S., Dubnicek, R., Graham, M., Harrison J., Walsh, J. A. & Layne-Worthey, G. (2021). “Recovering Spectral Presences in the 'Universal' Digital Library.” Paper presented at 6th annual Global Digital Humanities Symposium, Michigan State University, Virtual. 12-15 April 2021.
  
 
 ## Publications
