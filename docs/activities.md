@@ -1,4 +1,7 @@
 # SCWAReD Activities, Presentations, and Publications
+
+The major activities of the SCWAReD project included working with collaborators to develop the [SCWAReD Worksets](index.md) and research artifacts and our report on the remediation of gaps (missing items) in the HathiTrust collection. 
+
 ## Activities
 ### SCWAReD Workshop 2021
 23-23 June 2021  
