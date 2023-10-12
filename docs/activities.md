@@ -1,18 +1,14 @@
 # SCWAReD Activities, Presentations, and Publications
 ## Activities
 ### SCWAReD Workshop 2021
-23-23 June 2021
-
-Keynote Speaker: [Kent Chang](https://kentkc.org) 
-
+23-23 June 2021  
+Keynote Speaker: [Kent Chang](https://kentkc.org)   
 Title: _A Digital Humanities that Enables: Interdisciplinary Collaboration for Cultural-centric Data Science with HTRC Data Capsule_
 
 
 ### SCWAReD Workshop 2022
-16-17 August 2022
-
-Keynote Sperker: [Dr. Marisa Parham](https://english.umd.edu/directory/marisa-parham) 
-
+16-17 August 2022  
+Keynote Sperker: [Dr. Marisa Parham](https://english.umd.edu/directory/marisa-parham)   
 Title: _Processing Power: Baldwin, Morrison, data, information_
 
 ## Presentations
