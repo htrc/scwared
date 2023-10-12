@@ -43,6 +43,8 @@ This project draws on HathiTrust’s collection of public health documents on Bl
 
 [View the project on GitHub.](https://github.com/htrc/scwared-national-negro-health)
 
+## [SCWAReD Activities, Presentations, and Publications](activities.md)
+View [a list](activities.md) of activies resulting from the SCWAReD project.
 
 ## SCWAReD Staff
 **John A. Walsh**  
