@@ -32,4 +32,4 @@ Title: _A Digital Humanities that Enables: Interdisciplinary Collaboration for C
 - Dickson-Koehl E., Downie, J. S., Dubnicek, R., Graham, M., Harrison J., Walsh, J. A. & Layne-Worthey, G. (2021). “Recovering Spectral Presences in the 'Universal' Digital Library.” Paper presented at 6th annual Global Digital Humanities Symposium, Michigan State University, Virtual. 12-15 April 2021.
  
 
-## Publications
+<!-- ## Publications -->
