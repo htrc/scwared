@@ -1,5 +1,5 @@
 # Report on HathiTrust Gap Filling
-By Isabella Magni, Glen Layne-Worthy, John A. Walsh, J. Stephen Downie, Maryemma Graham, and Ryan Dubnicek
+By Isabella Magni, Glen Layne-Worthy, John A. Walsh, J. Stephen Downie, Maryemma Graham, Janet Swatscheno, and Ryan Dubnicek
 
 Given the legal history of text and data mining (Grimmelmann 2016) and corresponding digitization policies and initiatives, the search for relevant materials for non-canonical cultural research is often one that ends with empty hands. The SCWAReD project attempts to pilot and examine a workflow for filling gaps in incomplete digital collections–gaps that too often silence voices and perspectives at the periphery. The emphasis on recovering and documenting existing marginalized (or “hidden”) portions of collections implies the discovery and potential remediation of gaps in a digital library collection that hopes to be reasonably comprehensive. 
  
