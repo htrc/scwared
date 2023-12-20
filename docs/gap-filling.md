@@ -27,6 +27,7 @@ Below (Table 1 and Figure 1) is an overview of the “initial gaps”: the total
 | Latin American Fiction | 1,033 | 321 (31.0%) |
 | Native American Authored Works | 2,135 | 1,198 (56.1%) |
 | _Totals_ | 6,599 | 3,743 (56.7%) |
+
 _Table 1: Quantification of collection gaps.  Note that the “Black Fantastic” list of desiderata is a proper subset of the “Black Book Interactive Project” list, and is not included in the Totals._
 
 ![Comparison of collection gaps across projects.](images/gap-filling/fig1-gapfilling.png)
@@ -48,7 +49,6 @@ Below (Table 2 and Figure 2) is an overview of the overall results of pilot gap 
 
 | _Project_ | _# (% of gap) of gap volumes found in UIUC catalog_ | _# (% of gap) of items newly added to HT collection_ | _Final gap_
 _# (% of total) of desired items still not found in HT |
-
 | :------ | :----- | :------ | :------ | 
 | Black Book Interactive Project (BBIP) / History of Black Writing| 625 (28.3%) | 102 (4.6%) | 2,106 (62.4%) |
 | Black Fantastic | 12 (30.8%) | 5 (12.8%) | 34 (47.2%) |
@@ -56,6 +56,7 @@ _# (% of total) of desired items still not found in HT |
 | Latin American Fiction | 72 (22.4%) | 23 (7.2%) | 298 (28.8%) |
 | Native American Authored Works | 308 (25.7%) | 21 (1.8%) | 1,177 (55.1%) |
 | _Totals_ | 1,005 (26.9%) | 151 (4.0%) | 3,597 (54.5%) |
+
 _Table 2: Quantification of collection gaps filled (and remaining). Note that the “Black Fantastic” list of desiderata is a proper subset of the “Black Book Interactive Project / History of Black Writing” list, and is not included in the Totals. Refer to Table 1 for initial gap and total figures used for calculation of percentages._
 
 ![Comparison of collection gaps filled (and remaining) across projects.](images/gap-filling/fig2-gapfilling.png)
