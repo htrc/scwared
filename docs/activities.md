@@ -19,7 +19,7 @@ Keynote Speaker: [Kent Chang](https://kentkc.org)
 Title: _A Digital Humanities that Enables: Interdisciplinary Collaboration for Cultural-centric Data Science with HTRC Data Capsule_
 
 ## Reports
-- Magni, I., Layne-Worthy, G., Walsh, J. A., Downie, J. S., Graham, M., Swatscheno, J., and Dubnicek, R. (2023). _[Report on HathiTrust Gap Filling](gap-filling.md)_.
+- Magni, I., Layne-Worthey, G., Walsh, J. A., Downie, J. S., Graham, M., Swatscheno, J., and Dubnicek, R. (2023). _[Report on HathiTrust Gap Filling](gap-filling.md)_.
 
 ## Presentations
 - Parulian, N. N., Dubnicek, R., Evans, D. J., Hu, Y., Layne-Worthey, G., Downie, J. S., Heaton, R., Lu, K., Orr, R. I., Magni, I. & Walsh, J. A. “Tuning out the Noise: Benchmarking Entity Extraction for Digitized Native American Literature.” Paper presented at 86th Annual Meeting of the Association for Information Science & Technology, London, UK, 27-31 October, 2023. 
