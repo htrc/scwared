@@ -31,6 +31,7 @@ Below (Table 1 and Figure 1) is an overview of the “initial gaps”: the total
 _Table 1: Quantification of collection gaps.  Note that the “Black Fantastic” list of desiderata is a proper subset of the “Black Book Interactive Project” list, and is not included in the Totals._
 
 ![Comparison of collection gaps across projects.](images/gap-filling/fig1-gapfilling.png)
+
 _Figure 1. Comparison of collection gaps across projects._
 
 ## Filling the gaps
@@ -59,6 +60,7 @@ Below (Table 2 and Figure 2) is an overview of the overall results of pilot gap 
 _Table 2: Quantification of collection gaps filled (and remaining). Note that the “Black Fantastic” list of desiderata is a proper subset of the “Black Book Interactive Project / History of Black Writing” list, and is not included in the Totals. Refer to Table 1 for initial gap and total figures used for calculation of percentages._
 
 ![Comparison of collection gaps filled (and remaining) across projects.](images/gap-filling/fig2-gapfilling.png)
+
 _Figure 2. Comparison of collection gaps filled (and remaining) across projects._
 
 ### Simple analyses of gap-filling results
@@ -66,6 +68,7 @@ _Figure 2. Comparison of collection gaps filled (and remaining) across projects.
 In addition to identifying and requesting digitization of individual items needed to fill our scholar-identified collection gaps, we also did a very simple analysis (among many possible analyses) of the nature of those gaps that were filled through UIUC Library digitization. In particular, we wished to understand how publication dates are reflected in both Library holdings in the gap area, and its successful digitization. Figure 3 is the result of that analysis.
 
 ![Number of potential gap-filling items held by the UIUC Library, and of those successfully targeted for digitization, by decade of publication.](images/gap-filling/fig3-gapfilling.png)
+
 _Figure 3. Number of potential gap-filling items held by the UIUC Library, and of those successfully targeted for digitization, by decade of publication._
 
 Our initial assumption was that gap-filling digitization would be concentrated among older publications – that is, that books not currently subject to copyright restrictions would be more readily digitized – but that proved not to be the case. Although the UIUC Library is a rich source of potentially gap-filling works from the 1990s-2000s, the 1970s were rather better served by the vicissitudes of third-party digitization (which accounts for the vast majority of HT content, both in UIUC’s digitization efforts and in general).
