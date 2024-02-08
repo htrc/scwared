@@ -81,16 +81,16 @@ We had also assumed that the gaps themselves would be especially heavy with olde
 As immense and multifaceted as the HathiTrust collections are, they are necessarily incomplete for reasons equally multifaceted.  And while the SCWAReD experience of working with highly specialized scholarly teams to identify collection gaps has proven to be a fruitful one, the effort to fill the gaps identified by those teams is likewise a multifaceted and complicated one. Nevertheless, we have shown that filling those gaps, and making the HathiTrust collections incrementally more complete and more representative, is indeed possible, but requires (and will continue to require) thoughtful, collaborative work on a long timeline, and in concert with the same HathiTrust community that together collected, curated, and created the collections in the first place.  
 
 # References
-Kara Bledsoe et al. _Leading by Diversifying Collections: A Guide for Academic Library Leadership_.  Ithaka S+R, 2022. https://doi.org/10.18665/sr.317833.
+Kara Bledsoe et al. _Leading by Diversifying Collections: A Guide for Academic Library Leadership_.  Ithaka S+R, 2022. (https://doi.org/10.18665/sr.317833).
 
 Katherine Bode, “Why you can’t model away bias.” _Modern Language Quarterly_ 81.1 (March 2020).
 
 Bonnie Mak, “Archaeology of a Digitization.” _Journal of the Association for Information Science & Technology_, vol. 65, no. 8, Aug. 2014, pp. 1515–26.
 
-Merrilee Proffitt, “Casting a different net: Diversifying print monograph collecting in research libraries.”  _Hanging Together: the OCLC Research Blog_, March 9, 2023.  https://hangingtogether.org/casting-a-different-net-diversifying-print-monograph-collecting-in-research-libraries/
+Merrilee Proffitt, “Casting a different net: Diversifying print monograph collecting in research libraries.”  _Hanging Together: the OCLC Research Blog_, March 9, 2023.  (https://hangingtogether.org/casting-a-different-net-diversifying-print-monograph-collecting-in-research-libraries/)
 
 Nanna Bonde Thylstrup, _The Politics of Mass Digitization_. Cambridge, MA: MIT Press, 2019.
 
-Nicole M. Brown, Ruby Mendenhall, Michael Black, Mark Van Moer, Karen Flynn, Malaika McKee, Assata Zerai, Ismini Lourentzou & ChengXiang Zhai, “In Search of Zora / When Metadata Isn’t Enough: Rescuing the Experiences of Black Women Through Statistical Modeling.” _Journal of Library Metadata_ 19, no 3-4 (2019):, 141- 162, https://doi.org/10.1080/19386389.2019.1652967
+Nicole M. Brown, Ruby Mendenhall, Michael Black, Mark Van Moer, Karen Flynn, Malaika McKee, Assata Zerai, Ismini Lourentzou & ChengXiang Zhai, “In Search of Zora / When Metadata Isn’t Enough: Rescuing the Experiences of Black Women Through Statistical Modeling.” _Journal of Library Metadata_ 19, no 3-4 (2019):, 141- 162, (https://doi.org/10.1080/19386389.2019.1652967)
 
-David Bainbridge, J. Stephen Downie, Hemi Whaanga. An Open Data Approach to Revealing Indigenous Texts in Large-Scale Digital Repositories: A Case-Study of Locating Pages of Māori Text in the HathiTrust. In Laura Estill, Jennifer Guiliano, editors, _15th Annual International Conference of the Alliance of Digital Humanities Organizations, DH 2020, Ottawa, Canada, July 20-25, 2020, Conference Abstracts_. 2020, https://dh2020.adho.org/wp-content/uploads/2020/07/669_AnOpenDataApproachtoRevealingIndigenousTextsinLargeScaleDigitalRepositoriesACaseStudyofLocatingPagesofMoriTextintheHathiTrust.html
+David Bainbridge, J. Stephen Downie, Hemi Whaanga. An Open Data Approach to Revealing Indigenous Texts in Large-Scale Digital Repositories: A Case-Study of Locating Pages of Māori Text in the HathiTrust. In Laura Estill, Jennifer Guiliano, editors, _15th Annual International Conference of the Alliance of Digital Humanities Organizations, DH 2020, Ottawa, Canada, July 20-25, 2020, Conference Abstracts_. 2020, (https://dh2020.adho.org/wp-content/uploads/2020/07/669_AnOpenDataApproachtoRevealingIndigenousTextsinLargeScaleDigitalRepositoriesACaseStudyofLocatingPagesofMoriTextintheHathiTrust.html)
