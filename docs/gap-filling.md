@@ -49,7 +49,7 @@ We would also emphasize that this effort was intended only as a time-limited pil
 
 Below (Table 2 and Figure 2) is an overview of the overall results of pilot gap filling efforts accomplished in collaboration with the UIUC Library.
 
-| _Project_ | _# (% of gap) of gap volumes found in UIUC catalog_ | _# (% of gap) of items newly added to HT collection_ | _Final gap # (% of total) of desired items still not found in HT |
+| _Project_ | _# (% of gap) of gap volumes found in UIUC catalog_ | _# (% of gap) of items newly added to HT collection_ | _Final gap # (% of total) of desired items still not found in HT_ |
 | :------ | :----- | :------ | :------ | 
 | Black Book Interactive Project (BBIP) / History of Black Writing| 625 (28.3%) | 102 (4.6%) | 2,106 (62.4%) |
 | Black Fantastic | 12 (30.8%) | 5 (12.8%) | 34 (47.2%) |
